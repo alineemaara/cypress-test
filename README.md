@@ -1,6 +1,6 @@
 # Testes Cypress
 
-Esse projeto tem como objetivo testar as funcionalidades do sistema.
+Esse projeto tem como objetivo testar as funcionalidades dos botões, campos e validação de imagens
 
 # Versões utilizadas 
 
@@ -9,7 +9,7 @@ Esse projeto tem como objetivo testar as funcionalidades do sistema.
 - Npm >= 8
 - Node >= 14
 
-# Configurar
+# Configurações
 
 - Crie uma pasta com nome do projeto
 - Inicie um console e execute o comando "npm init -y" será criado arquivo package.json
